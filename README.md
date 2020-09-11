@@ -1,5 +1,5 @@
 ### Wesley Guerra Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/wesleyguerra09/)
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/wesleyguerra09/)
 ### Software Developer, currently focusing on NodeJS, ReactJS and React Native.
 ### Let's code 🚀
 
