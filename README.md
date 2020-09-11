@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Software Developer, atualmente focado em NodeJS, ReactJS e React Native.
+
+### Bora codar 🚀
+
 <!--
 **Wesleygmssa/Wesleygmssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
