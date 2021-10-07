@@ -1,19 +1,6 @@
-### Wesley Guerra Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/wesleyguerra09/)
-### Software Developer, currently focusing on  ReactJS , next, React Native and NodeJS,.
-### Let's code 🚀
-
-### 💻 Currently studying
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+# Hi there 👋
 
 <!--
-**Wesleygmssa/Wesleygmssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [![LinkedIn Badge](https://img.shields.io/badge/-Tayrone%20Batista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyguerra09/)](https://https://www.linkedin.com/in/wesleyguerra09/)
+- [![Gmail Badge](https://img.shields.io/badge/-wesleyguerra9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayrone.contatogmail.com)](mailto:tayrone.contatogmail.com)
+
+
+## <img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleygmssa&count_private=true&show_icons=true&theme=radical" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygmssa&theme=tokyonight&layout=default" />
+
+<!--
+**CoderTayrone/CoderTayrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
