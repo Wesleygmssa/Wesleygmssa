@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-Weslety%Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyguerra09/)](https://https://www.linkedin.com/in/wesleyguerra09/)
-- [![Gmail Badge](https://img.shields.io/badge/-wesleyguerra9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayrone.contatogmail.com)](mailto:tayrone.contatogmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/wesleyguerra09-3b7239169/)](https://https://www.linkedin.com/in/wesleyguerra09-3b7239169/)
+- [![Gmail Badge](https://img.shields.io/badge/-wesleyguerra9gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyguerra9gmail.com)](mailto:wesleyguerra9gmail.com)
 
 
 ## <img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleygmssa&count_private=true&show_icons=true&theme=radical" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygmssa&theme=tokyonight&layout=default" />
