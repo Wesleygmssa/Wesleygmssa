@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/wesleyguerra09-3b7239169/)](https://https://www.linkedin.com/in/wesleyguerra09-3b7239169/)
+- [![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Guerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/wesleyguerra09)](https://https://www.linkedin.com/in/wesleyguerra09)
 - [![Gmail Badge](https://img.shields.io/badge/-wesleyguerra9gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyguerra9gmail.com)](mailto:wesleyguerra9gmail.com)
 
 
