@@ -23,7 +23,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
 ### Projetos Destacados
 
-- [Geobahia](([http://mapa.geobahia.ba.gov.br)]): Breve descrição do projeto.
+- [Geobahia]([http://mapa.geobahia.ba.gov.br): Breve descrição do projeto.
 - [Nome do Projeto](link): Breve descrição do projeto.
 - [Nome do Projeto](link): Breve descrição do projeto.
 
