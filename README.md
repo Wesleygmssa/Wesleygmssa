@@ -33,7 +33,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
 ### Entre em Contato
 
-- LinkedIn: [Wguerra09]([link](https://www.linkedin.com/in/wesleyguerra09/))
+- LinkedIn: [Wguerra09](https://www.linkedin.com/in/wesleyguerra09)
 
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou sugestão. Obrigado por visitar! 😊
