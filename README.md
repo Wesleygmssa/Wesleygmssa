@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma variedade de
 
 ### Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em [projeto/empresa].
+- 🔭 Atualmente estou trabalhando em [Geobahia](http://mapa.geobahia.ba.gov.br/)].
 - 🌱 Estou sempre aprendendo e buscando novas tecnologias para expandir meu conhecimento.
 - 👯 Estou aberto a colaborações e oportunidades de trabalho.
 - 💬 Pergunte-me sobre [área de especialização/interesse].
